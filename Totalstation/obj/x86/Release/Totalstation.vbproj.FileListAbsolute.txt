@@ -1,0 +1,5 @@
+D:\stop wifi\Program vb.net\Totalstation\Totalstation\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\stop wifi\Program vb.net\Totalstation\Totalstation\obj\x86\Release\WindowsApplication1.Form2.resources
+D:\stop wifi\Program vb.net\Totalstation\Totalstation\obj\x86\Release\WindowsApplication1.Form3.resources
+D:\stop wifi\Program vb.net\Totalstation\Totalstation\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\stop wifi\Program vb.net\Totalstation\Totalstation\obj\x86\Release\Totalstation.vbproj.GenerateResource.Cache
